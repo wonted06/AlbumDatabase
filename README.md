@@ -3,9 +3,9 @@
 We were given a .txt file which included:
 - songs from several different artists
 - track duration of each song
-- artist name
-- album name
-- year of album released
+- artist names
+- album names
+- year of albums released
 
 Tasks:
 
